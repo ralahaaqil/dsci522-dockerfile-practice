@@ -1,0 +1,7 @@
+name: individual_assignment_2
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel=6.31.0
+  - pandas=2.2.3
